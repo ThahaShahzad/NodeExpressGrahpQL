@@ -1,1 +1,0 @@
-# Pole-Star-Test-API-Graphql
